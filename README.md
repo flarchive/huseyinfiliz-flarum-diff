@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of huseyinfiliz/flarum-diff.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/flarum-diff) or the [upstream repository](https://github.com/huseyinfiliz/flarum-diff).
 
-**0** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.0`
+**8** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-02-24 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-03-02 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v1.0.1) |
+| `2.0.0` | 2026-10-01 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.0.0) |
+| `2.0.0-beta.1` | 2025-12-09 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.0.0-beta.1) |
+| `2.0.0-beta.2` | 2025-12-10 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.0.0-beta.2) |
+| `2.0.0-beta.3` | 2025-12-11 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.0.0-beta.3) |
+| `2.0.0-beta.4` | 2026-01-20 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.0.0-beta.4) |
+| `2.1.0` | 2026-11-17 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-diff/tree/archive/v2.1.0) |
 
 Catalog entry: [packages/huseyinfiliz-flarum-diff.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-flarum-diff.json)
 
